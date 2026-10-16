@@ -1,6 +1,6 @@
 ### Hi, I'm Simone 👋
 
-PhD candidate in Electronic and Computer Engineering (University of Cagliari), working on deep learning for computer vision and biometric security — fingerprint presentation-attack detection, iris recognition at a distance, and image restoration.
+ML & Computer Vision Engineer. I build deep learning systems that work outside the lab: compact, robust models for real-world conditions. Open to ML / CV / AI Engineer roles from November 2026.
 
 🔬 **Featured work**
 - [GARP-PAD](https://github.com/carsim97/GARP-PAD) — rotation-equivariant fingerprint spoof detector, ~1MB / 7.8ms inference, accepted at IEEE/IAPR IJCB 2026
